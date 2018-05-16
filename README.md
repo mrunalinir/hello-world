@@ -1,2 +1,4 @@
 # hello-world
-Random
+
+Trying to be less noob, one repository at a time.
+I also like cats :)
